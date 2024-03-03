@@ -88,9 +88,11 @@ li:hover{
     margin: auto;
     display: flex;
     border-style: hidden;
+    background-color: #ECEFF2;
 }
 .block_job_button:hover{
     cursor: pointer;
+    background-color: #fff;
 }
 
 
