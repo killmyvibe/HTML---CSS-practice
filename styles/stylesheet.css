@@ -59,7 +59,7 @@ li:hover{
 }
 .block_job_title {
     margin: 0;
-    font-family: "GraphikLCG-Regular";
+    font-family: "GraphikLCG-Medium";
     font-size: 52px;
     font-weight: 600;
     text-align: center;
@@ -93,6 +93,51 @@ li:hover{
 .block_job_button:hover{
     cursor: pointer;
     background-color: #fff;
+}
+.how_it_works_title {
+    margin:0;
+    padding-top: 100px;
+    font-family: "GraphikLCG-Medium";
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.how_it_works {
+    margin: 0;
+    position: relative;
+    padding: 50px 352px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.how_it_works_subtitle{
+    font-family: "GraphikLCG-Medium";
+    font-size: 16px;
+    font-weight: 600px;
+    margin: 0;
+    line-height: 24px;
+}
+.how_it_works_text {
+    font-family: "GraphikLCG-Regular";
+    font-size: 14px;
+    font-weight: 400px;
+    color:#5E646A;
+    line-height: 24px;
+    margin: 0;
+    padding-top: 7px;
+}
+.block_read {
+    width: 280px;
+}
+.block_learn {
+    width: 280px;
+}
+.block_make {
+    width: 280px;
+}
+.block_get {
+    width: 280px;
 }
 
 
