@@ -94,6 +94,7 @@ li:hover{
     cursor: pointer;
     background-color: #fff;
 }
+
 .how_it_works_title {
     margin:0;
     padding-top: 100px;
@@ -139,6 +140,52 @@ li:hover{
 .block_get {
     width: 280px;
 }
+
+.third_block {
+    margin: 0;
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 100px 352px;
+}
+.block_text {
+    top: 100px;
+}
+.third_section_title {
+    font-family: "GraphikLCG-Medium";
+    font-size: 32px;
+    width: 592px;
+    margin: 0;
+}
+.third_block_text1 {
+    font-family: "GraphikLCG-Regular";
+    font-size: 16px;
+    font-weight: 400px;
+    color:#5E646A;
+    margin: 0;
+    padding: 30px 0;
+}
+.third_block_text2 {
+    font-family: "GraphikLCG-Regular";
+    font-size: 16px;
+    font-weight: 400px;
+    color:#5E646A;
+    margin: 0;
+}
+.block_phone {
+    position: relative;
+    width: 592px;
+}
+.phone {
+    position: absolute;
+    top: 0;
+}
+#parent
+.truck {
+    position: relative;
+}
+
 
 
 
